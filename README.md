@@ -1,2 +1,3 @@
-# NoSupplyDropLights
-Plugin for Rust servers that disables lights on Supply Drops
+## Features
+
+- Disables lights on Supply Drops
